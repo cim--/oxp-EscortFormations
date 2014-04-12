@@ -1,0 +1,5 @@
+Escort Formations licensed under CC-BY-SA 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+If you want to use any of the components in ways unrelated to New
+Cargoes, please rename them to avoid OXP conflicts.
